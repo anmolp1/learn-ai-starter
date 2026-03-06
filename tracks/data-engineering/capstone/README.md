@@ -24,7 +24,7 @@
 ## Tech Stack
 
 - **Language:** Python
-- **Transformations:** [dbt / Python / SQL]
+- **Transformations:** Python / SQL
 - **Infrastructure:** Terraform + GCP
 - **Database:** BigQuery
 - **AI Tools Used:** [Claude, Claude Code, Copilot, etc.]
