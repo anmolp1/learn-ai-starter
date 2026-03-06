@@ -5,7 +5,7 @@
 ## Getting Started
 
 1. **Pick your track** — delete the folder for the track you're NOT doing
-2. **Start with Session 0** — follow the pre-work in the [curriculum](https://github.com/YOUR_USERNAME/learn-ai)
+2. **Start with Session 0** — follow the pre-work in the [curriculum](https://github.com/anmolp1/learn-ai)
 3. **Build your capstone** in the `capstone/` folder inside your track
 4. **Journal as you go** — use the session journal files to reflect on each session
 
@@ -36,4 +36,4 @@ tracks/
 
 ## Built During
 
-[Learn AI](https://github.com/YOUR_USERNAME/learn-ai) — an open-source bootcamp for integrating AI into real workflows.
+[Learn AI](https://github.com/anmolp1/learn-ai) — an open-source bootcamp for integrating AI into real workflows.
